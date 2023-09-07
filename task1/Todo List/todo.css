@@ -1,0 +1,14 @@
+a{
+    color: rgb(249, 247, 247);
+    font-weight: bold;
+}
+a:hover{
+    color: aliceblue;
+}
+body{
+    background-color: rgb(174, 174, 155);
+}
+#items{
+    margin-top: 5rem;
+    border: 8px solid yellow;
+}
